@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Prayer Song Project]]></title>
+        <description><![CDATA[Prayer Song Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 19:17:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prayer Song Project Launches]]></title>
+            <description><![CDATA[<article><h1>Prayer Song Project Launches</h1><p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p></article>]]></description>
+            <link>undefinedprayer-song-project-launches/index.html</link>
+            <guid isPermaLink="false">876b7b40-4020-4d51-8a54-be93b6083cc8</guid>
+            <pubDate>Tue, 26 Jan 2016 19:17:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
